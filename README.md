@@ -1,4 +1,4 @@
-# Actividad 6: Pipeline MLOps y Comparación de Modelos
+# Actividad 6: Pipeline para comparar Modelos
 
 Repositorio para la implementación de un pipeline de comparación entre Regresión Logistica (A) y Random Forest (B)
 
