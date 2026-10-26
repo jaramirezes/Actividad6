@@ -6,7 +6,7 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 
 ---
 
-## [[1.1.0]] - 2026-10-25
+## [1.1.0] - 2026-10-25
 
 ### Actualizado
 * **`datos_prep.py`**: Implementación completa del pipeline de preprocesamiento y limpieza de datos.
@@ -15,7 +15,7 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 
 ---
 
-## [[1.0.0]] - 2026-10-25
+## [1.0.0] - 2026-10-25
 
 ### Agregado
 * Estructura de directorios bajo estándares MLOps (`datos` y `fuentes/`).
